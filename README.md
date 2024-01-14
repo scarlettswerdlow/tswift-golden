@@ -19,6 +19,8 @@ python3 src/get-data.py --config src/config.yaml --album data/albums-raw.csv --t
 
 ## Data
 
+![Entity Relationship Diagram](https://github.com/scarlettswerdlow/tswift-golden/blob/main/assets/tswift-data.png)
+
 ### Spotify
 
 [Spotify API documentation](https://developer.spotify.com/documentation/web-api/reference/#/)
